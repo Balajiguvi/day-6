@@ -1,4 +1,3 @@
-
 class persondetail{
     constructor(name,age,dob,gender,ph)
     {
