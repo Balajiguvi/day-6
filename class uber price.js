@@ -1,4 +1,4 @@
-//class movie //
+
 class Uber
 {
     constructor(basefare,costpermile,costperminute,timeofride,ridedistance,bookingfee,surgemultiplier){
